@@ -17,4 +17,4 @@ For best result, use Google Chrome
 Go to **Settings**. Scroll down to **GitHub Pages** section. Select the branch to **main** (if not selected by default). Click **Save**. Click on the link under "You site is published as..".
 
 **Note** 
-If you receive a 404 status code, add "index.html" to the end of the url. 
+If you receive a 404 status code, add "index1.html" to the end of the url. 

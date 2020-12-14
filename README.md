@@ -1,5 +1,5 @@
 # Score-Keeper-method2
-This is an elaborate project using DOM. The method2 has been cleaned up to eliminate any code repetition. Refer to "Score-Keeper-method1" for the difference in codes. 
+This is an elaborate project using DOM, and Bulma (CSS Framework). The method2 has been cleaned up to eliminate any code repetition. Refer to "Score-Keeper-method1" for the difference in codes. 
 
 **Contents of the repository**
 This repository contains two files - one HTML and one JavaScript.
